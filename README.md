@@ -3,7 +3,7 @@
 line 2 changed remotely
 UBC_DS_TB
 
-## TIRAMISU:
+### TIRAMISU:
 This is an easy recipe for a classic Italian Tiramisu.<br>
 Original recipe from: BROMA [link to recipe](https://bromabakery.com/classic-tiramisu/). 
 
