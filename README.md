@@ -8,7 +8,9 @@ UBC_DS_TB
 This is an easy recipe for a classic Italian Tiramisu.<br>
 Original recipe from: BROMA [link to recipe](https://bromabakery.com/classic-tiramisu/).<be>
 
-* Lady fingers 
+*Ingredients:*
+
+* Ladyfingers 
 * Eggs
 * Sugar
 * Rum
